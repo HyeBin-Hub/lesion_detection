@@ -1,0 +1,7 @@
+train: /content/lesion_detection/images/train/
+val: /content/lesion_detection/images/val/
+
+# number of classes
+nc: 4
+# class names
+names: [ '01_ulcer', '02_mass', '04_lymph', '05_bleeding' ]
